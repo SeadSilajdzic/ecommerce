@@ -1,0 +1,16 @@
+.input-custom {
+  display: block;
+  border-bottom: 1px solid #ccc;
+  width: 100%;
+  margin: 5px 0 20px 0;
+  font-size: 16px;
+}
+
+.btn-custom {
+  background-color: #be3232;
+  padding: 7px 20px;
+  border-radius: 15px;
+  color: #fff;
+  background-color: #333;
+}
+
